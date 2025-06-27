@@ -40,8 +40,7 @@ C. KEGG Pathway Enrichment
 D. Plotting & Visualization  
 - Barplots for GO terms  
 - Dotplot for KEGG pathways  
-- Gene-concept network plot (cnetplot)  
-- Enrichment map plot (emapplot)
+- Gene-concept network plot (cnetplot) 
 
 E. Exported Results  
 - CSV files for all GO and KEGG tables  
