@@ -21,7 +21,7 @@ library(pathview)
 library(openxlsx)
 
 # Set working directory where outputs will be saved
-setwd("C:/Users/Shivam Kaushik/Documents/gene_enrichment_output")
+setwd("C:/Users/jaya Kaushik/Documents/gene_enrichment_output")
 
 # Define a list of gene symbols for analysis
 gene_symbols <- c("IL6", "TNF", "CXCL8", "JUN", "FOS", "STAT1", "STAT3", "IRF1", "CCL2", "NFKB1")
