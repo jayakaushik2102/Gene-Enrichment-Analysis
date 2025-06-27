@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","RichFactor","FoldEnrichment","zScore","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0090575","RNA polymerase II transcription regulator complex","4/10","254/19880",0.015748031496063,31.3070866141732,10.9054473277922,5.14500351867046e-06,9.26100633360684e-05,7.582110448567e-05,"JUN/FOS/STAT1/STAT3",4
